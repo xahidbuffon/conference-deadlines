@@ -16,10 +16,10 @@
 
 
 
-## Computer Vision
+## ML, NLP, AI
 | Conference | Date | Venue | Paper Deadline | 
 |:------------------------|:--------------------|:--------------------|:-----------------------|
-| [CVPR 2019](http://cvpr2019.thecvf.com) | June 16-21, 2019 | Long Beach, CA, US  | Nov 16, 2018 |
+|  |  |   |  |
 
 
 
