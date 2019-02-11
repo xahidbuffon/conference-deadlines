@@ -23,6 +23,6 @@
 
 
 
-### more info at
+### Info:
 - https://aideadlin.es/?sub=ML,CV,NLP,RO
 
