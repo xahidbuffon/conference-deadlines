@@ -27,7 +27,7 @@
 | [ECML/PKDD 2019](https://ecmlpkdd2019.org/) | Sep 16-20, 2019 | Würzburg, Germany  | Apr 5, 2019 |
 
 
-## AI
+## Artificial Intelligence
 | Conference | Date | Venue | Paper Deadline | 
 |:------------------------|:--------------------|:--------------------|:-----------------------|
 | [IJCAI 2019](https://www.ijcai19.org/) | Aug 10-16, 2019 | Macao, China  | Feb 25, 2018 (Abstract due Feb 19) |
