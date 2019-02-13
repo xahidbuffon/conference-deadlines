@@ -29,6 +29,7 @@
 | Conference | Date | Venue | Paper Deadline | 
 |:------------------------|:--------------------|:--------------------|:-----------------------|
 | [IJCAI 2019](https://www.ijcai19.org/) | Aug 10-16, 2019 | Macao, China  | Feb 25, 2018 (Abstract due Feb 19) |
+| [AAI 2019](https://aaai.org/Conferences/AAAI-19/) | Jan 27-Feb 1, 2019 | Hawaii, US  | Sep 5, 2018 (Abstract due Aug 30) |
 
 
 
