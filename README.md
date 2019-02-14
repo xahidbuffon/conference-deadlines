@@ -34,7 +34,3 @@
 | [AAI 2019](https://aaai.org/Conferences/AAAI-19/) | Jan 27-Feb 1, 2019 | Hawaii, US  | Sep 5, 2018 (Abstract due Aug 30) |
 
 
-
-### Info:
-- https://aideadlin.es/?sub=ML,CV,NLP,RO
-
